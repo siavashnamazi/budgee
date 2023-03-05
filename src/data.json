@@ -1,0 +1,46 @@
+{
+    "settings":{
+        "default_interval_budget":600.00,
+        "interval_type":"week",
+        "start_dayofweek":"friday"
+    },
+    "intervals":[
+        {
+            "interval_id":1,
+            "interval_start":"01-13-23",
+            "interval_end":"01-19-23",
+            "interval_budget":1810.27,
+            "interval_expense_sum":0.00,
+            "interval_balance":0.00,
+            "bank_or_roll":"",
+            "expenses":[
+                {
+                    "expense_id":1,
+                    "expense_amnt":25.00,
+                    "expense_note":"Nespresso"
+                },
+                {
+                    "expense_id":2,
+                    "expense_amnt":49.32,
+                    "expense_note":"Sushi"
+                },
+                {
+                    "expense_id":3,
+                    "expense_amnt":30.00,
+                    "expense_note":"McDonald's"
+                }
+            ]
+        }
+    ],
+    "goals":[
+        {
+            "goal_id":1,
+            "goal_name":"Goal 1",
+            "goal_budget":6900.00,
+            "amnt_run":0.00,
+            "thumb":"https://trendinline.com/wp-content/uploads/2020/12/Jordan-1-Retro-High-Off-White-Chicago-1.png",
+            "status":"string",
+            "intervals":[1]
+        }
+    ]
+}
