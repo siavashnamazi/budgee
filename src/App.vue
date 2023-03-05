@@ -43,7 +43,6 @@ export default{
         <v-col class="text-center align-self-end" cols="12">
           Made in NYC <v-icon icon="mdi-github" /> 
            <!-- {{ new Date().getFullYear() }} -->
-           
         </v-col>
       </v-row>
     </v-footer>
