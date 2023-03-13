@@ -1,6 +1,6 @@
 # budgee
 
-[Mobile Screenshot](https://github.com/siavashnamazi/budgee/tree/master/src/assets/mobile1.png)
+![Mobile Screenshot](https://github.com/siavashnamazi/budgee/tree/master/src/assets/mobile1.png)
 
 ## Customize configuration
 
